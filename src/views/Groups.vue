@@ -7,4 +7,7 @@ export default {};
 </script>
 
 <style>
+body {
+  background-color: black;
+}
 </style>

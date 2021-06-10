@@ -8,3 +8,8 @@ export default {
   components: {},
 };
 </script>
+<style>
+body {
+  background-color: black;
+}
+</style>
