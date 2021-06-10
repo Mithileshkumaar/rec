@@ -1,5 +1,5 @@
 <template>
-  <div class="home">Home</div>
+  <div id="home">Home</div>
 </template>
 
 <script>
@@ -8,8 +8,5 @@ export default {
   components: {},
 };
 </script>
-<style>
-body {
-  background-color: black;
-}
+<style scoped>
 </style>
