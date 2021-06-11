@@ -30,7 +30,7 @@
         </ul>
       </div>
     </div>
-  </nav>
+  </nav> 
   <router-view />
 </template>
 
@@ -57,4 +57,6 @@ body {
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+
 </style>
